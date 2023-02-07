@@ -1,0 +1,9 @@
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Juan', 'Perez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Maria', 'Gomez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Pedro', 'Gomez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Jose', 'Perez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Ana', 'Gomez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Luis', 'Perez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Luisa', 'Gomez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Carlos', 'Perez');
+insert into Persona (id, nombre, apellido) values (NEXTVAL('hibernate_sequence'), 'Carla', 'Gomez');
